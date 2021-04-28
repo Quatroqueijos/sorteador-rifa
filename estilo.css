@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(180deg, #3F002D 0%, rgba(255, 255, 255, 0) 100%), #000000;
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    font-style: normal;
+    font-weight: normal;
+}
+
+#title {
+    position: relative;
+    width: 699px;
+    height: 120px;
+    left: 370px;
+    top: 10px;
+    font-size: 100px;
+    line-height: 120px;
+    color: #FFF963;
+    text-shadow: 5px 5px 5px #FAFF00;
+}
+
+button {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 669px;
+    top: 95px;
+    background: #FFF963;
+    border-radius: 100%;
+    border: 5px solid #FAFF00;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#resultado {
+    position: relative;
+    width: 699px;
+    height: 120px;
+    left: 370px;
+    top: 32px;
+    font-size: 100px;
+    line-height: 120px;
+    color: #FFF963;
+    text-shadow: 5px 5px 5px #FAFF00;
+}
