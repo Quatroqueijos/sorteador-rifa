@@ -1,6 +1,7 @@
 body {
     background: linear-gradient(180deg, #3F002D 0%, rgba(255, 255, 255, 0) 100%), #000000;
     background-repeat: no-repeat;
+    background-image: url("imagens/2004765.jpg");
     font-family: 'Dancing Script', cursive;
     font-style: normal;
     font-weight: normal;
@@ -19,8 +20,8 @@ section h1 {
     text-align: center;
     font-size: 80px;
     line-height: 80px;
-    color: #FFF963;
-    text-shadow: 5px 5px 5px #FAFF00;
+    color: #FAFF00;
+    text-shadow: 5px 5px 5px black;
 
 }
 
@@ -40,6 +41,6 @@ button {
     text-align: center;
     font-size: 100px;
     line-height: 200px;
-    color: #FFF963;
-    text-shadow: 5px 5px 5px #FAFF00;
+    color: #FAFF00;
+    text-shadow: 5px 5px 5px black;
 }
